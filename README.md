@@ -1,3 +1,7 @@
+<h1 align="center">👋 Hi, I'm Mohd Mairaj</h1>
+<h3 align="center">Full-Stack Developer | Building Scalable & User-Centric Solutions</h3>
+<h4 align="center">🌍 Based in India | 💻 Passionate about Web Development & Technology</h4>
+
 ## About Me
 
 Hi, I'm Mohd Mairaj, a passionate full-stack web developer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.
